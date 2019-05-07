@@ -17,7 +17,7 @@ This article describes how to connect to a Conduit connector in Tableau Server u
 ![alt text](https://www.dropbox.com/s/qi0xkii39kkfer9/Screenshot%202019-05-06%2023.44.27.png?raw=1)
 
 **Step 2**: In the "Spark SQL" configuration screen, enter your Conduit connector information:
-* Server: Enter the URL from the Conduit connector. In the example above, "demo-conduit.westus2.cloudapp.azure.com" would be used
+* Server: Enter the URL from the Conduit connector. In the example above, "demo-conduit.westus2.cloudapp.azure.com" would be used. **IMPORTANT: DO NOT INCLUDE THE HTTPS:// IN THE SERVER URL**
 * Port: Enter 10002
 * Type: Choose "SparkThriftServer" (if not already selected)
 * Authentication: For this example, "No Authentication" has been selected. This will vary depending on the specific Conduit instance
