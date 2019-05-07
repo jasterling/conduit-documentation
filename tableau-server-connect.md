@@ -6,7 +6,7 @@ This article describes how to connect to a Conduit connector in Tableau Server u
 ### Part 1: Open Conduit
 **Step 1**: Click the "View connector" button for a selected connector.
 
-**Step 2**: Copy the url under "Power BI/Tableau Spark Connector
+**Step 2**: Copy the url under "Power BI/Tableau Spark Connector"
 
 ![](https://www.dropbox.com/s/s5nf7vxdjui3xm2/Screenshot%202019-05-06%2023.49.09.png?raw=1)
 
