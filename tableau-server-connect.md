@@ -1,4 +1,4 @@
-# Using A Connector With Tableau Server
+# Using A Conduit Connector With Tableau Server
 
 ### Part 1: Open Conduit
 **Step 1**: Click the "View connector" button for a selected connector.
