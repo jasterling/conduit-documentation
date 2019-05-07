@@ -27,4 +27,4 @@
 
 **Step 3**: Click the "Sign In" button
 
-## Congratulations. You have connected to a Conduit connector with Tableau.
+## Congratulations. You have connected to a Conduit connector with Tableau Server.
