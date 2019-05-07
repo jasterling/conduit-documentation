@@ -1,9 +1,12 @@
-# Using A Conduit Connector With Tableau Server
+# Using A Conduit Connector With Tableau Server Using Spark SQL
+
+This article describes how to connect to a Conduit connector in Tableau Server using Spark SQL. Using Spark SQL for the connection enables real-time access to the data exposed via the Conduit connector.
+
 
 ### Part 1: Open Conduit
 **Step 1**: Click the "View connector" button for a selected connector.
 
-**Step 2**: Copy the url under "Power BI/Tableau Spark Connector (screenshot below)
+**Step 2**: Copy the url under "Power BI/Tableau Spark Connector
 
 ![](https://www.dropbox.com/s/s5nf7vxdjui3xm2/Screenshot%202019-05-06%2023.49.09.png?raw=1)
 
