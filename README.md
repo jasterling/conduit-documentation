@@ -7,7 +7,7 @@ Conduit is a secure data access solution for modern data visualization scenarios
 * __Developer Friendly.__ Data from connected data sources is available via a REST API.
 
 ## Next Steps
-* [Get started with Conduit through the Azure Marketplace]()
+* [Get started with Conduit through the Azure Marketplace](azure-install.md)
 * [Using A Conduit connector With Tableau Server](tableau-server-connect.md)
 
 
