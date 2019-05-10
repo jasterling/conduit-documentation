@@ -4,7 +4,7 @@ Conduit is a secure data access solution for modern data visualization scenarios
 * __Fast.__ Conduit leverages Apache Spark to optimize query times to drive high performace access to your data.
 * __Lightweight.__ Conduit has a small installation and configuration footprint so it can be installed in your cloud environment or on-premise.
 * __Secure.__ With Active Directory (AD) integration and single sign-on capability, Conduit gives you fine-grained control over who has access to your data.
-* __Developer Friendly.__ Data from connected data sources is available via a REST API
+* __Developer Friendly.__ Data from connected data sources is available via a REST API.
 
 ## Next Steps
 * [Get started with Conduit through the Azure Marketplace]()
