@@ -1,6 +1,6 @@
 # Quick Start Guide: Installing Conduit on Amazon Web Service (AWS)
 
-This guide assumes you have an EC2 instance configured within AWS. For instructions on creating an EC2 instance, check out [this article](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
+This guide assumes you have an EC2 instance configured within AWS. For instructions on creating an EC2 instance, check out [this article](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html).
 
 Navigate to Microsoft Azure Marketplace https://azuremarketplace.microsoft.com/en-us/marketplace/
 Search for ‘Conduit’ in the top search bar
