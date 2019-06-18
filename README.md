@@ -8,6 +8,7 @@ Conduit is a secure data access solution for modern data visualization scenarios
 
 ## Next Steps
 * [Get started with Conduit through the Azure Marketplace](azure-install.md)
+* [Installing Conduit on Amazon Web Service (AWS)](aws-install.md)
 * [Using A Conduit connector With Tableau Server](tableau-server-connect.md)
 
 
